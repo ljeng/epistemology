@@ -1,5 +1,5 @@
 * [Index](index.md)
-* [What Is It Like to Be Artificial Intelligence?](bat.md)
+* [What Is It Like to Be Artificial General Intelligence?](bat.md)
 * [Phenomenology of Machine Perception](phenomenology-perception.md)
 * [The Architecture of a Mind](synthetic-intelligence.md)
 
